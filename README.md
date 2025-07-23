@@ -19,7 +19,9 @@ Compared model performances to identify the most influential factors.
 1-Clone the repository: git clone [repo-link]
 2-Install the necessary packages: pip install -r requirements.txt
 3-Use the provided Jupyter Notebook file to explore and run the analysis.
---------------------------------------------------------------------------------------------TR------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------TR-------------------------------------------------------------------------------
+
 Proje Hakkında
 🌍 Gürcistan'ın Kobuleti şehrinde Erasmus+ kapsamında katıldığım "Be The Solution Not The Pollution" projesinden ilham alarak, şehirlerdeki hava kirliliği sorununu inceleyen bir çalışma gerçekleştirdim.
 
